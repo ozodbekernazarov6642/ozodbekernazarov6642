@@ -32,6 +32,8 @@ I am a Telegram bot Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :seedling: I am currently studying Data Science.
 
+- :zap: Projects: [varfootballbot](https://t.me/varfootballbot) | [KamolaShakarovabot](https://t.me/KamolaShakarovabot) 
+
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/piimatalabasi)
 ---
 
