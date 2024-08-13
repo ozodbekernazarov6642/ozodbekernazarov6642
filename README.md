@@ -30,7 +30,7 @@ I am a Telegram bot Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :telescope: I am a DataScienc and telegram bot developer and have done many orders..
 
-- :seedling: I am currently studying Data Science.
+- :seedling: I am currently studying Data Science at Mohirdev.uz !
 
 - :zap: Projects: [varfootballbot](https://t.me/varfootballbot) | [KamolaShakarovabot](https://t.me/KamolaShakarovabot) 
 
