@@ -28,7 +28,7 @@
 
 I am a Telegram bot Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
-- :telescope: I am a telegram bot developer and I have done many orders.
+- :telescope: I am a DataScienc and telegram bot developer and have done many orders..
 
 - :seedling: I am currently studying Data Science.
 
@@ -44,6 +44,11 @@ I am a Telegram bot Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQl" alt="SQl" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlip" alt="matplotlip" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="40" height="40"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="psql" alt="psql" width="40" height="40"/>&nbsp;
+  <img src="https://brightdata.com/wp-content/uploads/2023/12/beatifulsoup_image.svg" title="Bsoup" alt="Bsoup" width="40" height="40"/>&nbsp;
 </div>
 
 ---
