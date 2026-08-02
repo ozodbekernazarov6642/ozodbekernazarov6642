@@ -68,8 +68,8 @@ I also have experience developing production-ready Telegram bots using Python.
 
 ### Telegram Bots
 
-- https://t.me/varfootballbot
-- https://t.me/KamolaShakarovabot
+- https://t.me/Olimfondi_bot
+- https://t.me/Chiochiouzb_bot
 
 ---
 
