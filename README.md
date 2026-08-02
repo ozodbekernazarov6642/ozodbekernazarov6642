@@ -131,15 +131,19 @@ Besides AI, I also develop Telegram bots and backend applications using Python.
 
 ---
 
-# 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ozodbekernazarov6642&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ozodbekernazarov6642&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozodbekernazarov6642&theme=github-dark&hide_border=true" width="48%" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozodbekernazarov6642&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozodbekernazarov6642&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
 
 </div>
 
